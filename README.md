@@ -1,2 +1,2 @@
 # Py
-This repository contains the list of Python programs in Hackerrank.
+This Repo includes the Python programs in Hackerrank.
